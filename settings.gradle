@@ -1,0 +1,3 @@
+rootProject.name='MediaProjectionLibrary_Android'
+include ':app'
+include ':MediaProjection'
